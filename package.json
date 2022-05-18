@@ -1,6 +1,6 @@
 {
   "name": "project1",
-  "version": "1.10.2",
+  "version": "1.10.3",
   "description": "Bot 乃5 - Campanhas de Marketing digital na rede de whatsapp, com auto atendimento, captura de contatos, observador e respostas automáticas de termos e palavras-chave nos grupos e ou no privado, Sistema de Delivery, comando pré-definidos pelo usuário e mais...",
   "main": "dist/app.js",
   "homepage": "https://bit.ly/3siAr1A",
